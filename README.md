@@ -5,9 +5,9 @@ This game is my first game ever created. In this game, you must type in the corr
 # Running
 ## Command Window
 To run, open your command prompt / console and set your base directory to the folder where you saved this repository.  Then run 'script.py' with python. For me, this looks like (Windows):
-
+```
 (base) C:\Users\Patrick\Documents\PythonExercise\vocabgame>python script.py
-
+```
 Please note that this repository is saved in the 'vocabgame' folder for me.  If the correct base path is not initiated, then there may be a 'file-not-found' error raised.  If there is, then it is likely because you are in the wrong base path.
 
 ## Dependencies
